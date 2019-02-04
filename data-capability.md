@@ -1,6 +1,7 @@
 # Data Capability
 
-We can divide data capability into 5 buckets.
+In [self-assessment for data related capability](https://docs.google.com/forms/d/e/1FAIpQLSeYHRP3Tm04r9BZOL1G4YfXyF2dN4VNib2LtlB0f46TPnHCRw/viewform), it categorize data capability into 5 buckets. Which seems to be a good reference for us to think about how are we going to grow data capabilities.
+
 
 ### Data Strategy
 
@@ -50,6 +51,8 @@ Key Competencies:
   
 
 ### Data Platform Engineering
+
+The ability to design and build data platforms, from which people can gain insights.
 
 Key Competencies: 
 
