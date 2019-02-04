@@ -12,11 +12,13 @@ In Data Guild, we plan to groom our people into Data Developer so that they have
 
 So, we should now be on the same page around intention of this program. Let's define a minimum set of capabilities we need for becoming a Data Developer!
 
-We will use this list of [data capability](data-capability.md) as a baseline and we will focus on a few of them.
+We will use this list of [Data Capability](data-capability.md) as a baseline and we will focus on a few of them.
 
-The goal here is to move from "No experience" to "Learning" stage in the selected key competencies as defined in [Self Assessment - Data related capabilities](https://docs.google.com/forms/d/e/1FAIpQLSfeoUg710JkdBxODx5rXu3vPBjaRFjPTrV9y1vKaAmVVDvrBw/viewform):
+The goal here is to move from **No experience** to **Learning** stage in the selected key competencies as defined in [Self Assessment - Data related capabilities](https://docs.google.com/forms/d/e/1FAIpQLSfeoUg710JkdBxODx5rXu3vPBjaRFjPTrV9y1vKaAmVVDvrBw/viewform):
 
-```
-* Learning
-Novice, apprentice. Trying to learn fundamentals via self-guided learning, support from a coach/mentor/teammates, or other learning resources. Starting to apply new knowledge in a professional setting by working from a checklist or playbook.
-```
+
+> **Learning**
+>
+> Novice, apprentice. Trying to learn fundamentals via self-guided learning,
+> support from a coach/mentor/teammates or other learning resources. Starting to
+> apply new knowledge in a professional setting by working from a checklist or playbook.
