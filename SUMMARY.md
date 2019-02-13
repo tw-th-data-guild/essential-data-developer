@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Essential Data Developer](README.md)
+* [Introduction](README.md)
 * [Data Capability](data-capability.md)
 * [Week 1: Basic Data Science Workflow](week1/README.md)
 * [Week 2](week2/README.md)
