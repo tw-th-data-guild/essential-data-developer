@@ -1,9 +1,9 @@
 # Week 1
 
-## What you will learn
+## What will I learn?
 
-## At home
+## What should I learn in weekend?
 
-## At guild
+## What will we do in Guild?
 
-## If you want to know more!
+## What if I want to know more!?
