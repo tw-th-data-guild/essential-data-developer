@@ -18,28 +18,24 @@
 
 3. Exercise to do(˜2-3 hrs)
     * Setup DataBricks and go though below.
-    * [If you need help setting up Data Bricks Noteboos](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
+    * [If you need help setting up Data Bricks Notebooks](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
     * [Data Bricks Getting Started](https://docs.databricks.com/getting-started/index.html)
     * [Spark - Architectures, joins, partitioning](https://docs.databricks.com/getting-started/spark/index.html)
 
 ## What will we do in Guild?
 1. Watch/Read/Discuss
     * Video/Reading on Batch Data Pipelines vs Streaming data pipelines (TBA)
-    * Video/Reading on Various data architecture patterns (TBA)
 
 2. Exercise
     * Checkout and explore sample batch data pipeline.
     * Run Spark submit locally.
     * Setup Spark UI locally and explore.
 
-3. Project Kickoff for next week.
-
 
 ## What if I want to know more!?
 * [Scala](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) might be enough for the basic syntax level  understanding of Scala.
 Also, [please follow these instructions to set up IntelliJ](https://docs.google.com/document/d/18gdtnyQ4Ze5UnvAVVCN-GkNxvV2aNHR_LNyh0kDTq4A/edit#heading=h.pgupim5kxzr0) for Scala.
-
-* Spark (TBA)
-* Data Formats - Parque and Avro (TBA)
 * [Processing tools selection criteria](https://docs.google.com/presentation/d/1fTfEkbRb8uwFuPu-kuwbASmMyHOxzzz8hySY1Qit2Ig/edit#slide=id.g37231d4ee1_0_198)
 * [the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks](https://www.stitchdata.com/blog/the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks/)
+* Excellent coverage on Spark by [Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
+* Recent and excellent book  - [Spark definitive guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
