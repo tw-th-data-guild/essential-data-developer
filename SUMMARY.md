@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Essential Data Developer](README.md)
+* [week1](week1/README.md)
+  * [Action plan](week1/index.md)
+* [week6](week6/README.md)
+  * [Action plan](week6/index.md)
+* [week5](week5/README.md)
+  * [Action plan](week5/index.md)
+* [week4](week4/README.md)
+  * [Action plan](week4/index.md)
+* [week3](week3/README.md)
+  * [Action plan](week3/index.md)
+* [week2](week2/README.md)
+  * [Action plan](week2/index.md)
+* [Data Capability](data-capability.md)
+* [week8](week8/README.md)
+  * [Action plan](week8/index.md)
+* [week7](week7/README.md)
+  * [Action plan](week7/index.md)
+

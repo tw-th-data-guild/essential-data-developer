@@ -6,8 +6,6 @@ Data Developer is a person who have background in software development plus some
 
 In Data Guild, we plan to groom our people into Data Developer so that they have enough basics to be able to contribute in a data project right away and be able to learn more about specific topic further themselves.
 
----
-
 ## Essential Data Developer Pathway
 
 So, we should now be on the same page around intention of this program. Let's define a minimum set of capabilities we need for becoming a Data Developer!
@@ -16,9 +14,7 @@ We will use this list of [Data Capability](data-capability.md) as a baseline and
 
 The goal here is to move from **No experience** to **Learning** stage in the selected key competencies as defined in [Learning Pathways](https://docs.google.com/presentation/d/1JCEcE9OmQ1ocdxKf37gzNtWmC63xaBMEs-uFUQ_8LJA/edit#slide=id.g3fa2669660_5_1831):
 
-
 > **Learning**
 >
-> Novice, apprentice. Trying to learn fundamentals via self-guided learning,
-> support from a coach/mentor/teammates or other learning resources. Starting to
-> apply new knowledge in a professional setting by working from a checklist or playbook.
+> Novice, apprentice. Trying to learn fundamentals via self-guided learning, support from a coach/mentor/teammates or other learning resources. Starting to apply new knowledge in a professional setting by working from a checklist or playbook.
+
