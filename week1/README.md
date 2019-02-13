@@ -15,19 +15,20 @@ In this week, we will learn very minimum basic knowledge in order to get to sele
 
 ## What should I learn on weekend?
 
+* [Try to setup local environment](setup.md) (~ 10 mins)
 * [Data Ingestion and Inspection](https://campus.datacamp.com/courses/pandas-foundations/data-ingestion-inspection) (~ 1 hour)
 * [Data Types](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) (~ 6 mins)
 * Missing values
   * [Idea](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
   * [Python specific](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html ))
 * [Graphical Exploratory Data Analysis](https://www.kaggle.com/rochellesilva/simple-tutorial-for-beginners/data) (~ 1 hour)
-  * Try out additional plots and think about when will it be useful
+  * Try out additional plots and think about when will it be useful (~ 30 mins)
     * [distplot](https://seaborn.pydata.org/generated/seaborn.distplot.html)
     * [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
     * [barplot](https://seaborn.pydata.org/generated/seaborn.barplot.html)
     * [scatterplot](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)
-* [Machine Learning: Classification](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification)
-  * More classification algorithm
+* [Machine Learning: Classification](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification) (~ 1 hour)
+  * More classification algorithm (~ 30 mins)
     * [Decision Tree](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
 
 ## What will we do in Guild?
