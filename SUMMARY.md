@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Data Capability](data-capability.md)
-* [Week 1: Basic Data Science Workflow](week1/README.md)
+* [Week 1: Simplified Data Science Workflow](week1/README.md)
 * [Week 2](week2/README.md)
 * [Week 3](week3/README.md)
 * [Week 4](week4/README.md)
