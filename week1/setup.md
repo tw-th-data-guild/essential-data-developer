@@ -5,13 +5,13 @@ To setup local environment, we use Docker to ease things out. If you don't have 
 * [windows](https://docs.docker.com/docker-for-windows/install/)
 
 Then clone this repository
-```
-$ git clone https://github.com/tw-th-data-guild/essential-data-developer.git
+```sh
+git clone https://github.com/tw-th-data-guild/essential-data-developer.git
 ```
 
 After that, we can run this in the root repository
-```
-$ docker run -p 8888:8888 -v "$PWD":/home/jovyan jupyter/datascience-notebook
+```sh
+docker run -p 8888:8888 -v "$PWD":/home/jovyan jupyter/datascience-notebook
 ```
 
 And you will see something like this
