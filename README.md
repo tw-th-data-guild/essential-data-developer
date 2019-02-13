@@ -24,33 +24,31 @@ The goal here is to move from **No experience** to **Learning** stage in the sel
 
 This program will last for 8 weeks. Each week we are going to ask you to do some homework beforehand, and then we can have discussion and hack together at the guild!
 
-For the first 4 weeks we are going to focus on Data Science and a bit of Data BA, which will include:
+### First 4 weeks
+
+We are going to focus on Data Science and a bit of Data BA, which will include:
 
 [**Data Strategy**](data-capability.md/#data-strategy)
-- Data driven approaches
-
 * Data driven approaches
 
-**Data Insights**
-
+[**Data Insights**](data-capability.md/#data-insights)
 * Exploratory Data Analysis
 * Math & Stats
 
-**Machine Intelligence**
-
+[**Machine Intelligence**](data-capability.md/#machine-intelligence)
 * Machine Learning
 
-And for the last 4 weeks, it will be more Data Engineering and a bit of Data UX. We will cover:
+### Last 4 weeks
 
-**Data Platform Engineering**
+It will be more Data Engineering and a bit of Data UX. We will cover:
 
+[**Data Platform Engineering**](data-capability.md/#data-platform-engineering)
 * Data Pipeline
 * Data Architecture
 * Data Storage
 * Data Processing
 * Data Modeling
 
-**User Experience Around Insights**
-
+[**User Experience Around Insights**](data-capability.md/#user-experience-around-insights)
 * Data Storytelling
 
