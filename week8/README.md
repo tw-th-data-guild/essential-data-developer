@@ -2,6 +2,9 @@
 
 ## What will I learn?
 * Kafka
+* Various data architecture patterns
+* Data governance
+* Landscape of data tools available.
 
 ## What should I learn in weekend?
     * Kafka Introduction (TBA) 
@@ -13,4 +16,3 @@
    * Video/Reading/Discussion on Infrastructure Tools??
 
 ## What if I want to know more!?
-
