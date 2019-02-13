@@ -26,7 +26,8 @@ This program will last for 8 weeks. Each week we are going to ask you to do some
 
 For the first 4 weeks we are going to focus on Data Science and a bit of Data BA, which will include:
 
-**Data Strategy**
+[**Data Strategy**](data-capability.md/#data-strategy)
+- Data driven approaches
 
 * Data driven approaches
 
