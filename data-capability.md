@@ -1,6 +1,6 @@
 # Data Capability
 
-In [self-assessment for data related capability](https://docs.google.com/forms/d/e/1FAIpQLSeYHRP3Tm04r9BZOL1G4YfXyF2dN4VNib2LtlB0f46TPnHCRw/viewform), it categorize data capability into 5 buckets. Which seems to be a good reference for us to think about how are we going to grow data capabilities.
+According to global [capability offering model](https://capable.herokuapp.com/offerings/intelligent-empowerment), data capability is categorise dinto 5 buckets. Which seems to be a good reference for us to think about how are we going to grow data capabilities.
 
 
 ### Data Strategy

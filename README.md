@@ -14,7 +14,7 @@ So, we should now be on the same page around intention of this program. Let's de
 
 We will use this list of [Data Capability](data-capability.md) as a baseline and we will focus on a few of them.
 
-The goal here is to move from **No experience** to **Learning** stage in the selected key competencies as defined in [Self Assessment - Data related capabilities](https://docs.google.com/forms/d/e/1FAIpQLSfeoUg710JkdBxODx5rXu3vPBjaRFjPTrV9y1vKaAmVVDvrBw/viewform):
+The goal here is to move from **No experience** to **Learning** stage in the selected key competencies as defined in [Learning Pathways](https://docs.google.com/presentation/d/1JCEcE9OmQ1ocdxKf37gzNtWmC63xaBMEs-uFUQ_8LJA/edit#slide=id.g3fa2669660_5_1831):
 
 
 > **Learning**
