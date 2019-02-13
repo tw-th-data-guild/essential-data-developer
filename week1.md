@@ -1,4 +1,4 @@
-# Action plan
+# Week 1: Basic Data Science Workflow
 
 ## What will I learn?
 

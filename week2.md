@@ -1,4 +1,4 @@
-# Action plan
+# Week 2
 
 ## What will I learn?
 
