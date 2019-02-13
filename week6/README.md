@@ -1,3 +1,5 @@
+# Week 5: Data Storage + Modeling
+
 ## What will I learn?
 * HDFS fundamentals
 * Data Modeling
