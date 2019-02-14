@@ -17,7 +17,7 @@ The pipeline should run daily using the Airflow\Oozie.
 Tech:
 1. HDFS Yarn for Storage of Parquet.
 2. Airflow for Orchestration
-3. Spark with Scala
+3. Spark with Scala/Python
 4. AWS SDK, S3cmd for interacting with AWS.
 5. ? as final data Storage.
 

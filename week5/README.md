@@ -25,13 +25,14 @@
     * [Spark - Architectures, joins, partitioning](https://docs.databricks.com/getting-started/spark/index.html)
 
 ## What will we do in Guild?
-1. Watch/Read/Discuss
-    * Video/Reading on Batch Data Pipelines vs Streaming data pipelines (TBA)
+1. Discussions on what we have learned so far...
+2. Read and Discuss
+    * [Data Concepts](https://docs.google.com/presentation/d/128NUUBcyFkSp0Y4lNWxFzFhXENIZHuT2bzhIcBZJcMM/edit#slide=id.g3bd0ed69af_1_558)
 
-2. Exercise
-    * Checkout and explore sample batch data pipeline.
-    * Run Spark submit locally.
-    * Setup Spark UI locally and explore.
+3. Exercise
+    * [Checkout](./batch-data-pipeline) and explore sample batch data pipeline in this codebase.
+    * [Run Spark submit locally](./running_spark_submit_locally.md).
+    * [Setup Spark UI locally and explore](./running_spark_ui_locally.md).
 
 
 ## What if I want to know more!?

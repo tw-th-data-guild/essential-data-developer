@@ -22,6 +22,7 @@ Workflow Managment Layer - Airflow
     6. Save it to a data mart directory
 
 ## What will we do in Guild?
-Continue City Bike Project.
+1. Discussions on what we have learned so far...
+2. Continue City Bike Project.
 
 ## What if I want to know more!?
