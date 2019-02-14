@@ -7,8 +7,8 @@
 * [Week 2](week2/README.md)
 * [Week 3](week3/README.md)
 * [Week 4](week4/README.md)
-* [Week 5](week5/README.md)
-* [Week 6](week6/README.md)
-* [Week 7](week7/README.md)
-* [Week 8](week8/README.md)
+* [Week 5: Intro To Data Engg. + Processing](week5/README.md)
+* [Week 6: Data Storage + Modeling](week6/README.md)
+* [Week 7: Workflow Managment](week7/README.md)
+* [Week 8: Kafka + Data Architecture + Data Storytelling](week8/README.md)
 
