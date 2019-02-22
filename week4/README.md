@@ -1,4 +1,4 @@
-# Week 4
+# Week 4: Data Science goes BIG
 
 ## What will I learn?
 
