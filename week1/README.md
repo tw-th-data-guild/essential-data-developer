@@ -21,7 +21,7 @@ In this week, we will learn very minimum basic knowledge in order to get to sele
 * Missing values
   * [Handling missing values](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
   * [Python specific missing values and how to handle it](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html ))
-* [Graphical Exploratory Data Analysis](https://www.kaggle.com/rochellesilva/simple-tutorial-for-beginners/data) (~ 1 hour)
+* [Graphical Exploratory Data Analysis](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis) (~ 1 hour)
 * Try out more plot type (~ 30 mins)
   * [distplot](https://seaborn.pydata.org/generated/seaborn.distplot.html)
   * [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
