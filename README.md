@@ -52,3 +52,8 @@ It will be more Data Engineering and a bit of Data UX. We will cover:
 [**User Experience Around Insights**](data-capability.md/#user-experience-around-insights)
 * Data Storytelling
 
+---
+
+<sub>
+Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.
+</sub>
