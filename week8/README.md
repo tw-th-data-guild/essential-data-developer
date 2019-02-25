@@ -20,3 +20,7 @@
 * [Reading on Data Security](https://docs.google.com/presentation/d/1zwWx20xumCpEWajK_SEd6Tj3p8OGP9zHGf7yXQrnxDk/edit#slide=id.g1c9ca5108_1270)
 * [Reading on Data Governance - WIP](https://docs.google.com/document/d/18wU-2qlnnpBL7CyITwRGx3YmYovythOf9VGpocPSxsc/edit#heading=h.gc642witv0uv)
 * [Data Guided Business Videos](https://www.thoughtworks.com/live-series-au/content#data-guided)
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

@@ -28,3 +28,7 @@
   [Designing Data Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) is by far the best and one-stop-shop for these topics.
 * [Data Modeling Pathway](https://docs.google.com/presentation/d/1DiW333bEfO0m5xvbSlqpLtYFt-mPBCrVYZtEn06JYZM/edit#slide=id.g362f568261_0_0)
 * [Data Modeling Book](ttps://learning.oreilly.com/library/view/data-modeling-made/9780977140060/)
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

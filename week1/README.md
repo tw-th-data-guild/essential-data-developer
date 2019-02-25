@@ -41,3 +41,7 @@ In this week, we will learn very minimum basic knowledge in order to get to sele
 
 * [Think Stats (Book)](https://learning.oreilly.com/library/view/think-stats-2nd/9781491907344/) More on Exploratory Data Analysis using tools of probability and statistics in Python
 * [Python Graph Gallery](https://python-graph-gallery.com/) Gallery of how can we plot stuffs
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

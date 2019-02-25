@@ -42,3 +42,7 @@ Also, [please follow these instructions to set up IntelliJ](https://docs.google.
 * [the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks](https://www.stitchdata.com/blog/the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks/)
 * Excellent coverage on Spark by [Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 * Recent and excellent book  - [Spark definitive guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

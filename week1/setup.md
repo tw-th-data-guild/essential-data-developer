@@ -40,3 +40,7 @@ Open your web browser of choice and go to `localhost:8888/?token=your-token`.
 
 Try out `week1/iris.ipynb` and run all the cells (`Cmd + Shift + p` or `Ctrl + Shift + p` and type run all cells).
 If you see no error then it should be good.
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

@@ -25,3 +25,7 @@ Tech:
 We can use data from https://www.kaggle.com/benhamner/sf-bay-area-bike-share/data. 
 
 Detailed link for Citibike data: https://www.citibikenyc.com/system-data
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

@@ -23,3 +23,7 @@ cd to the tw-pipeline folder and run the following spark-submit command
 spark-submit --jars ../config-1.3.2.jar --class com.thoughtworks.ca.de.batch.wordcount.WordCount --master local target/scala-2.11/tw-pipeline_2.11-0.1.0-SNAPSHOT.jar 
 
 Take a look at your results
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

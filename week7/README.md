@@ -26,3 +26,7 @@ Workflow Managment Layer - Airflow
 2. Continue City Bike Project.
 
 ## What if I want to know more!?
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

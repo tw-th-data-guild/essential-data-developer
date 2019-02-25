@@ -57,3 +57,6 @@ Key Competencies:
 1. **Data-driven views**: Build visualizations on top of data that provide insightful information for decision making
 2. **Data Storytelling**: Communicating data insights using visualizations, data, and a compelling narrative
 
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

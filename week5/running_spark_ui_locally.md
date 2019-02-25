@@ -13,3 +13,7 @@ Note how long this new code took in compute time
 
 ## Lesson Learned:
 Note that in Spark it’s really important to do your research to learn which functions are already built in spark.  When you use these functions then spark can better optimize them with the catalyst. 
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

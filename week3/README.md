@@ -23,3 +23,7 @@ TBA
 
 * [Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 * [Probability and Statistics in Data Science using Python](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+3T2018/course/)
+
+---
+
+*Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*
