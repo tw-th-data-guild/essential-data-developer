@@ -35,12 +35,13 @@ In this week, we will learn very minimum basic knowledge in order to get to sele
 ## What will we do in Guild?
 
 * Discuss about what you have learned
-* Let's predict if a Titanic passenger will survive or not ([data](https://www.kaggle.com/rochellesilva/simple-tutorial-for-beginners/data))
+* Let's predict if a Titanic passenger will survive or not ([data](https://www.kaggle.com/c/titanic/data))
 
 ## What if I want to know more!?
 
 * [Think Stats (Book)](https://learning.oreilly.com/library/view/think-stats-2nd/9781491907344/) More on Exploratory Data Analysis using tools of probability and statistics in Python
 * [Python Graph Gallery](https://python-graph-gallery.com/) Gallery of how can we plot stuffs
+* [K-nn explained](https://www.youtube.com/watch?v=MDniRwXizWo)
 
 ---
 
