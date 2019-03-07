@@ -5,7 +5,7 @@
 * [Week 1: Simplified Data Science Workflow](week1/README.md)
   * [Setup Local Environment](week1/setup.md)
 * [Week 2: More ML! Because why not?](week2/README.md)
-* [Week 3: (WIP) Math for Data Science](week3/README.md)
+* [Week 3: Math for Data Science](week3/README.md)
 * [Week 4: (WIP) Data Science goes BIG](week4/README.md)
 * [Week 5: Intro To Data Engg. + Processing](week5/README.md)
 * [Week 6: Data Storage + Modeling](week6/README.md)
