@@ -12,7 +12,7 @@
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. Data Architecture Kata
+2. Data Architecture Kata - City Bike Project
 3. Retrospective
 
 ## What if I want to know more!?

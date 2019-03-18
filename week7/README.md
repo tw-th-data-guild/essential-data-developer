@@ -23,10 +23,15 @@ Workflow Managment Layer - Airflow
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. Continue City Bike Project.
+2. Exercise
+    * [Checkout](./batch-data-pipeline) and explore sample batch data pipeline in this codebase.
+    * Discuss the architecture and each component.
+    * [Run Spark submit locally](./running_spark_submit_locally.md).
+    * [Setup Spark UI locally and explore](./running_spark_ui_locally.md).
+    * Run airflow dags locally
+
 
 ## What if I want to know more!?
-
 ---
 
 *Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*

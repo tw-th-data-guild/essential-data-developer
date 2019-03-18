@@ -12,13 +12,12 @@
     * [Data Formats in Hadoop](https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/)
     * [How to choose data format](https://community.hitachivantara.com/community/products-and-solutions/pentaho/blog/2017/11/07/hadoop-file-formats-its-not-just-csv-anymore)
 
-2. Assignment(˜1 hr)
-    * [Data Storage](https://docs.google.com/document/d/1Uw26Lc7qPTQKIZUuCZNgA267VO-wjXy406u-44P5f00/edit#heading=h.8hzq89jq6a7m)
 
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. City Bike Project Kickoff
+2. Assignment(˜1 hr)
+    * [Data Storage](https://docs.google.com/document/d/1Uw26Lc7qPTQKIZUuCZNgA267VO-wjXy406u-44P5f00/edit#heading=h.8hzq89jq6a7m)
 
 ## What if I want to know more!?
 * [Excellent course from Yandex](https://www.coursera.org/learn/big-data-essentials?specialization=big-data-engineering)

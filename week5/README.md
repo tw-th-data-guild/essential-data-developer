@@ -18,22 +18,16 @@
     * [a-beginners-guide-to-data-engineering-part-ii](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71.) 
     * [a-beginners-guide-to-data-engineering-part-iii](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 
-3. Exercise to do(˜2-3 hrs)
-    * Setup DataBricks and go though below.
-    * [If you need help setting up Data Bricks Notebooks](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
-    * [Data Bricks Getting Started](https://docs.databricks.com/getting-started/index.html)
-    * [Spark - Architectures, joins, partitioning](https://docs.databricks.com/getting-started/spark/index.html)
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
 2. Read and Discuss
     * [Data Concepts](https://docs.google.com/presentation/d/128NUUBcyFkSp0Y4lNWxFzFhXENIZHuT2bzhIcBZJcMM/edit#slide=id.g3bd0ed69af_1_558)
-
-3. Exercise
-    * [Checkout](./batch-data-pipeline) and explore sample batch data pipeline in this codebase.
-    * [Run Spark submit locally](./running_spark_submit_locally.md).
-    * [Setup Spark UI locally and explore](./running_spark_ui_locally.md).
-
+3. Exercise to do(˜2-3 hrs)
+    * Setup DataBricks and go though below.
+    * [If you need help setting up Data Bricks Notebooks](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
+    * [Data Bricks Getting Started](https://docs.databricks.com/getting-started/index.html)
+    * [Spark - Architectures, joins, partitioning](https://docs.databricks.com/getting-started/spark/index.html)
 
 ## What if I want to know more!?
 * [Scala](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) might be enough for the basic syntax level  understanding of Scala.
