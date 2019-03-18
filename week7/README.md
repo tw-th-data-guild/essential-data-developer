@@ -24,7 +24,7 @@ Workflow Managment Layer - Airflow
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
 2. Exercise
-    * [Checkout](./batch-data-pipeline) and explore sample batch data pipeline in this codebase.
+    * [Checkout](https://github.com/ThoughtWorksInc/batch-data-pipeline) and explore sample batch data pipeline in this codebase.
     * Discuss the architecture and each component.
     * [Run Spark submit locally](./running_spark_submit_locally.md).
     * [Setup Spark UI locally and explore](./running_spark_ui_locally.md).
