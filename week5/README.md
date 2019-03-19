@@ -1,41 +1,32 @@
-# Week 5: Intro To Data Engg + Processing
+# Week 5: Data Storage + Modeling
 
 ## What will I learn?
-* Big Data Engineering - Introduction + stack.
-* Processing data using Spark and Data Bricks.
-* Spark Architecture, Joins, Partionining.
-* Spark Tools like Spark Submit, Spark UI.
-* Data Pipelines - Batch vs Streams.
-* Common Data Architecture Patterns.
+* HDFS fundamentals
+* Data Modeling
+* Data Fromats
 
 ## What should I learn in weekend?
-1. Watch (˜1 hrs)
-    [Big Data Engineering stack - Chandni’s videos](https://www.youtube.com/playlist?list=PLhjyp1p9ym5q_dULHQrxJXhZFiykpuxW4)
+1. Read About(˜3-4 hrs)
+    * HDFS (TBA) 
+    * Data Modeling (TBA) 
+    * [Data Formats in Hadoop](https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/)
+    * [How to choose data format](https://community.hitachivantara.com/community/products-and-solutions/pentaho/blog/2017/11/07/hadoop-file-formats-its-not-just-csv-anymore)
 
-2. Read Articles (˜1-2 hrs)
-    * [getting-started-with-data-engineering](https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f)
-    * [a-beginners-guide-to-data-engineering-part-i](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)  
-    * [a-beginners-guide-to-data-engineering-part-ii](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71.) 
-    * [a-beginners-guide-to-data-engineering-part-iii](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. Read and Discuss
-    * [Data Concepts](https://docs.google.com/presentation/d/128NUUBcyFkSp0Y4lNWxFzFhXENIZHuT2bzhIcBZJcMM/edit#slide=id.g3bd0ed69af_1_558)
-3. Exercise to do(˜2-3 hrs)
-    * Setup DataBricks and go though below.
-    * [If you need help setting up Data Bricks Notebooks](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
-    * [Data Bricks Getting Started](https://docs.databricks.com/getting-started/index.html)
-    * [Spark - Architectures, joins, partitioning](https://docs.databricks.com/getting-started/spark/index.html)
+2. Assignment(˜1 hr)
+    * [Data Storage](https://docs.google.com/document/d/1Uw26Lc7qPTQKIZUuCZNgA267VO-wjXy406u-44P5f00/edit#heading=h.8hzq89jq6a7m)
 
 ## What if I want to know more!?
-* [Scala](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) might be enough for the basic syntax level  understanding of Scala.
-Also, [please follow these instructions to set up IntelliJ](https://docs.google.com/document/d/18gdtnyQ4Ze5UnvAVVCN-GkNxvV2aNHR_LNyh0kDTq4A/edit#heading=h.pgupim5kxzr0) for Scala.
-* [Processing tools selection criteria](https://docs.google.com/presentation/d/1fTfEkbRb8uwFuPu-kuwbASmMyHOxzzz8hySY1Qit2Ig/edit#slide=id.g37231d4ee1_0_198)
-* [the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks](https://www.stitchdata.com/blog/the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks/)
-* Excellent coverage on Spark by [Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
-* Recent and excellent book  - [Spark definitive guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+* [Excellent course from Yandex](https://www.coursera.org/learn/big-data-essentials?specialization=big-data-engineering)
+* [Hadoop Definitive Guide](https://learning.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)
+* Read more about databases - Relational, KV(HBase/Cassandra), Document(Elastic/MongoDB)
+* Distributed computing - Transactions, Consistency, Consensus, Replication, Partitioning
+  [Designing Data Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) is by far the best and one-stop-shop for these topics.
+* [Data Modeling Pathway](https://docs.google.com/presentation/d/1DiW333bEfO0m5xvbSlqpLtYFt-mPBCrVYZtEn06JYZM/edit#slide=id.g362f568261_0_0)
+* [Data Modeling Book](ttps://learning.oreilly.com/library/view/data-modeling-made/9780977140060/)
 
 ---
 

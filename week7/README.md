@@ -1,37 +1,26 @@
-# Week 5: Workflow Managment
+# Week 8: Kafka + Data Architecture + Data Storytelling
 
 ## What will I learn?
-Workflow Managment Layer - Airflow
+* Kafka
+* Various data architecture patterns
+* Data Visualisation and storytelling
 
 ## What should I learn in weekend?
-1. Read
-    [AirFlow Docs](https://airflow.apache.org)
-
-2. Assignment
-    [Please follow this tutorial](https://medium.com/@mozesr/basic-airflow-73361b62814f)
-
-* Look at the DAG in the Batch data pipeline repo
-    How are DAGs being scheduled?
-
-* Create your own DAG that will 
-    1. take data from a raw data directory 
-    2. Transform it with daily driver
-    3. Save it to a transformed data directory
-    4. Read that data for Citibikes Transformation
-    5. Run Citibikes Transformation on it
-    6. Save it to a data mart directory
+* Kafka Introduction (TBA) 
+* Watch [Data Storytelling Video](https://thoughtworks.zoom.us/recording/play/FaiWtOK6xHTtJDBRfIgOuGcdP2lImB6fY1gyKyrGeC2h5d5Tj4Vvp69U3iIIZLg_)
+* Go through slides and resources in [Data Architecture patterns](https://docs.google.com/presentation/d/13Y5d72hor8CskHkjLtOxcj2s-TkLBRbtih5cP_s5y_0/edit#slide=id.g354a0b4b07_0_0)
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. Exercise
-    * [Checkout](https://github.com/ThoughtWorksInc/batch-data-pipeline) and explore sample batch data pipeline in this codebase.
-    * Discuss the architecture and each component.
-    * [Run Spark submit locally](./running_spark_submit_locally.md).
-    * [Setup Spark UI locally and explore](./running_spark_ui_locally.md).
-    * Run airflow dags locally
-
+2. Data Architecture Kata - City Bike Project
+3. Retrospective
 
 ## What if I want to know more!?
+* [Kafka course](https://www.udemy.com/apache-kafka/)
+* [Reading on Data Security](https://docs.google.com/presentation/d/1zwWx20xumCpEWajK_SEd6Tj3p8OGP9zHGf7yXQrnxDk/edit#slide=id.g1c9ca5108_1270)
+* [Reading on Data Governance - WIP](https://docs.google.com/document/d/18wU-2qlnnpBL7CyITwRGx3YmYovythOf9VGpocPSxsc/edit#heading=h.gc642witv0uv)
+* [Data Guided Business Videos](https://www.thoughtworks.com/live-series-au/content#data-guided)
+
 ---
 
 *Copyright (c) 2018 ThoughtWorks; for individual use for training purposes and not to be distributed or sublicensed without further authorisation by ThoughtWorks.*
