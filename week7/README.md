@@ -1,4 +1,4 @@
-# Week 8: Kafka + Data Architecture + Data Storytelling
+# Week 7: Kafka + Data Architecture + Data Storytelling
 
 ## What will I learn?
 * Kafka
