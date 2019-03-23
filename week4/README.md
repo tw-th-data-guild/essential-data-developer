@@ -21,9 +21,7 @@
 
 ## What will we do in Guild?
 1. Discussions on what we have learned so far...
-2. Read and Discuss
-    * [Data Concepts](https://docs.google.com/presentation/d/128NUUBcyFkSp0Y4lNWxFzFhXENIZHuT2bzhIcBZJcMM/edit#slide=id.g3bd0ed69af_1_558)
-3. Exercise to do(˜2-3 hrs)
+2. Exercise to do
     * Setup DataBricks and go though below.
     * [If you need help setting up Data Bricks Notebooks](https://drive.google.com/drive/folders/1u30BJyCtWpoPwAlkb5bJqjfZOdXglAic)
     * [Data Bricks Getting Started](https://docs.databricks.com/getting-started/index.html)
@@ -36,6 +34,8 @@ Also, [please follow these instructions to set up IntelliJ](https://docs.google.
 * [the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks](https://www.stitchdata.com/blog/the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks/)
 * Excellent coverage on Spark by [Sameer Farooqui](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 * Recent and excellent book  - [Spark definitive guide](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+* Read and Think about some data concepts
+    * [Data Concepts](https://docs.google.com/presentation/d/128NUUBcyFkSp0Y4lNWxFzFhXENIZHuT2bzhIcBZJcMM/edit#slide=id.g3bd0ed69af_1_558)
 
 ---
 

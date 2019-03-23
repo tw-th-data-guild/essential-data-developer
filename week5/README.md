@@ -7,8 +7,8 @@
 
 ## What should I learn in weekend?
 1. Read About(˜3-4 hrs)
-    * HDFS (TBA) 
-    * Data Modeling (TBA) 
+    * [Watch HDFS Video](https://drive.google.com/drive/folders/1aHE8nVn5wJ5ZaxXOj58wbyDqe86e-SxS)
+    * [Data Modeling](https://drive.google.com/drive/folders/1aHE8nVn5wJ5ZaxXOj58wbyDqe86e-SxS)
     * [Data Formats in Hadoop](https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/)
     * [How to choose data format](https://community.hitachivantara.com/community/products-and-solutions/pentaho/blog/2017/11/07/hadoop-file-formats-its-not-just-csv-anymore)
 
