@@ -6,7 +6,7 @@
 * Data Visualisation and storytelling
 
 ## What should I learn in weekend?
-* Kafka Introduction (TBA) 
+* [Kafka Introduction - Go through the introduction and quick start](https://kafka.apache.org)
 * Watch [Data Storytelling Video](https://thoughtworks.zoom.us/recording/play/FaiWtOK6xHTtJDBRfIgOuGcdP2lImB6fY1gyKyrGeC2h5d5Tj4Vvp69U3iIIZLg_)
 * Go through slides and resources in [Data Architecture patterns](https://docs.google.com/presentation/d/13Y5d72hor8CskHkjLtOxcj2s-TkLBRbtih5cP_s5y_0/edit#slide=id.g354a0b4b07_0_0)
 
