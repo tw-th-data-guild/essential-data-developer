@@ -6,6 +6,8 @@
 * Data Fromats
 
 ## What should I learn in weekend?
+1. Watch (˜1 hrs)
+    [Big Data Engineering stack - Chandni’s videos](https://www.youtube.com/playlist?list=PLhjyp1p9ym5q_dULHQrxJXhZFiykpuxW4) (you need to be logged into Youtube using your TW account)
 
 1. [Watch HDFS Video](https://drive.google.com/drive/folders/1aHE8nVn5wJ5ZaxXOj58wbyDqe86e-SxS) Video 4.1_intro_to_dfs_storage.mp4
 2. [Watch Data Modeling](https://drive.google.com/drive/folders/1aHE8nVn5wJ5ZaxXOj58wbyDqe86e-SxS) Video 4.3_intro_to_dfs_storage.mp4
